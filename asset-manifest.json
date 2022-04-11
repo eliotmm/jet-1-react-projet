@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jet-1-react-projet/static/css/main.21a0812f.css",
+    "main.js": "/jet-1-react-projet/static/js/main.e13c1780.js",
+    "static/media/what-is-love.mp3": "/jet-1-react-projet/static/media/what-is-love.abf785ddff96acea4773.mp3",
+    "static/media/5870.jpg": "/jet-1-react-projet/static/media/5870.7eb94c421234b984c058.jpg",
+    "static/media/metamask.svg": "/jet-1-react-projet/static/media/metamask.e33fc1e4b9ab3a43bec0e525b8f15480.svg",
+    "index.html": "/jet-1-react-projet/index.html",
+    "main.21a0812f.css.map": "/jet-1-react-projet/static/css/main.21a0812f.css.map",
+    "main.e13c1780.js.map": "/jet-1-react-projet/static/js/main.e13c1780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a0812f.css",
+    "static/js/main.e13c1780.js"
+  ]
+}
